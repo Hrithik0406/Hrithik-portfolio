@@ -12,7 +12,7 @@
 | **The Soul Journey** | [thesouljourney.in](https://www.thesouljourney.in/) | Next.js 14, React, TypeScript, Tailwind, REST APIs | 95+ Lighthouse score, custom 5-layer Soul & Body interactive diagram, dynamic caching reducing network requests by 35%. |
 | **Toddlers Town Preschool** | [toddlers-town.vercel.app](https://toddlers-town.vercel.app/) | Next.js, React, TypeScript, Tailwind, Vercel CI/CD | Mobile-first admissions portal, real-time enquiry validation, zero-downtime previews on Git commits. |
 | **DLA Pharmaceuticals** | [dlapharmaceuticals.com](https://dlapharmaceuticals.com/) | Next.js App Router, TypeScript, AWS S3, Tailwind | Enterprise biospecimens platform, 100k+ research items, automated asset pipelines. |
-| **FutureTales** | [futuretales.in](https://futuretales.in/) | React, Vite, PHP, MySQL, Cloud Architecture | Cloud infrastructure migration, database query optimization, automated SSL/TLS provisioning. |
+| **FutureTails** | [futuretails.in](https://futuretails.in/) | React, Vite, PHP, MySQL, Cloud Architecture | Cloud infrastructure migration, database query optimization, automated SSL/TLS provisioning. |
 | **Feaura** | [feaura.com](https://feaura.com/) | Modern Web UX, Liquid/JS, GTM & Analytics | Modern Indian fashion e-commerce storefront, high-conversion visual merchandising, mobile drawer navigation. |
 | **Pedals Power** | [pedalspower.com](https://www.pedalspower.com/) | Modern Web, Telemetry UI, Responsive Commerce | Performance cycling storefront, aerodynamic athletic aesthetic, sub-1.5s load times. |
 | **Peach Tassels** | [peachtassels.com](https://peachtassels.com/) | E-Commerce, CDN Media Pipeline, Meta Schemas | Handcrafted designer jewelry showcase, optimized macro image delivery, mobile checkout flow. |

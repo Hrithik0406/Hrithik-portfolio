@@ -96,9 +96,9 @@ const DEFAULT_PROJECTS_DATA = [
   },
   {
     id: "future-tales",
-    title: "FutureTales",
-    tagline: "AI-Powered Interactive Storytelling & Pet Platform",
-    liveUrl: "https://futuretales.in/",
+    title: "FutureTails",
+    tagline: "Pet Care Platform & Cloud Infrastructure Migration",
+    liveUrl: "https://futuretails.in/",
     category: "ai",
     categoryLabel: "AI & Interactive",
     badge: "Cloud Migrated",
