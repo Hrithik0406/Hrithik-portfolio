@@ -1,0 +1,13 @@
+# robots.txt for Hrithik Sarkar Portfolio
+# https://github.com/Hrithik0406
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /scratch/
+
+# Googlebot specific optimizations
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://hrithiksarkar.com/sitemap.xml
