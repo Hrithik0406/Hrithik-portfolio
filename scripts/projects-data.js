@@ -97,31 +97,31 @@ const DEFAULT_PROJECTS_DATA = [
   {
     id: "future-tales",
     title: "FutureTails",
-    tagline: "Pet Care Platform & Cloud Infrastructure Migration",
+    tagline: "Veterinary Care, Grooming, Boarding & Pet E-Commerce Platform",
     liveUrl: "https://futuretails.in/",
-    category: "ai",
-    categoryLabel: "AI & Interactive",
+    category: "ecommerce",
+    categoryLabel: "E-Commerce & Pet Care",
     badge: "Cloud Migrated",
     image: "assets/project-future-tales.jpg",
-    stack: ["React", "Vite", "PHP", "MySQL", "Cloud Infrastructure", "DNS Architecture"],
-    summary: "Modern interactive web platform with automated cloud hosting, database optimization, and high-performance frontend architecture.",
+    stack: ["PHP", "MySQL", "WooCommerce", "Bootstrap / Responsive UI", "Cloud Migration", "DNS Architecture"],
+    summary: "Comprehensive veterinary clinic, pet grooming, boarding, and e-commerce store with optimized cloud hosting, database query optimization, and high-performance server architecture.",
     metrics: [
       { label: "Query Speedup", value: "30% Faster" },
-      { label: "Infrastructure", value: "Cloud Staging/Live" },
-      { label: "Security", value: "Automated SSL" },
-      { label: "Frontend", value: "Vite SPA" }
+      { label: "Infrastructure", value: "Cloud Staging & Live" },
+      { label: "Security", value: "Automated SSL/TLS" },
+      { label: "Platform", value: "Pet Services & Store" }
     ],
     highlights: [
-      "Diagnosed critical database schema mismatches and resolved environment configuration bottlenecks across staging and live servers.",
-      "Executed full infrastructure migration to modern cloud hosting with automated SSL/TLS provisioning, backup routines, and DNS records configuration.",
-      "Built responsive, interactive frontend client utilizing Vite & React for sub-second page loads.",
-      "Established robust environment configuration pipelines ensuring reliable data persistence and zero data-loss transitions."
+      "Diagnosed critical MySQL database schema mismatches and resolved environment configuration bottlenecks between staging and live production servers.",
+      "Executed full infrastructure migration to modern high-performance cloud hosting with automated SSL/TLS provisioning, scheduled daily backups, and DNS records routing.",
+      "Streamlined e-commerce product catalog architecture for pet foods, healthcare accessories, and toys with responsive mobile-first navigation.",
+      "Optimized server-side query execution and caching mechanisms, reducing database response times and ensuring reliable booking enquiry delivery."
     ],
     architectureDetails: {
-      framework: "Vite + React SPA client paired with robust backend services",
-      database: "MySQL with optimized relational queries & indices",
-      infrastructure: "Cloud hosting with automated SSL/TLS certificates and automated backups",
-      features: "Interactive story reader, account management, dynamic narrative asset loader"
+      framework: "PHP & WooCommerce backend with responsive Bootstrap & AJAX front-end interfaces",
+      database: "MySQL with optimized relational queries, product catalog indexing & automated backups",
+      infrastructure: "Modern cloud hosting with automated SSL/TLS certificates, CDN caching, and custom DNS management",
+      features: "Veterinary appointment booking, grooming & boarding services, pet accessories e-commerce catalog"
     }
   },
   {
