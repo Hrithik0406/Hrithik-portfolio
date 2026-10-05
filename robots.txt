@@ -10,4 +10,4 @@ Disallow: /scratch/
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://hrithiksarkar.com/sitemap.xml
+Sitemap: https://hrithik-sarkar.vercel.app/sitemap.xml
